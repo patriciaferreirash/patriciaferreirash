@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://www.canva.com/design/DAGdhXI26oM/z0M535zTa4CmGNS4LqndoQ/view?utm_content=DAGdhXI26oM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview"/>
+<img align="right" height="590em" src="https://www.canva.com/design/DAGdhXI26oM/z0M535zTa4CmGNS4LqndoQ/view?utm_content=DAGdhXI26oM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Patrícia Ester </h1>
 <p align="left"> 👨‍💻 </p>
 
@@ -7,6 +7,12 @@
 - 🔭 I’m currently working at Belo Horizonte City Hall (Prefeitura de Belo Horizonte)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+
+<br><br>
+
+## Contact
+[Linkedin](www.linkedin.com/in/patriciaferreirash)     -     [Codepen]([www.linkedin.com/in/patriciaferreirash](https://codepen.io/patriciaferreirash))     -     [Youtube]([www.linkedin.com/in/patriciaferreirash](https://www.youtube.com/@patriciaferreirash))
+
 
 
 <!--
