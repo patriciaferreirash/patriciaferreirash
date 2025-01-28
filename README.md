@@ -8,6 +8,12 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
+- 💡 Apaixonada por tecnologia, aprendizado constante e por transformar ideias em soluções práticas. Atualmente, mergulhando no universo da programação, explorando tanto o front-end quanto o back-end, além de estudar para o desenvolvimento de games.
+
+- 🚀 Buscando oportunidades para crescer na área e contribuir com projetos inovadores.
+
+- 📬 Vamos trocar ideias? Entre em contato!
+
 <br><br>
 
 ## Contact
